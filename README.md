@@ -17,7 +17,7 @@ Ship high-quality code on more than 40 programming languages. Create PR gates ba
 
 Check out our 📘 docs [here](https://docs.codacy.com/getting-started/codacy-quickstart/) for a quick setup guide, see supported languages and tools, and learn more about Codacy.
 
-🎬 Quick tour (video)
+🎬 [Quick tour](https://www.youtube.com/watch?v=4hs-5Onqv8k) (video)
 
 -----------------------------------------------------------------------------------------------------------
 
