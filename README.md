@@ -19,6 +19,8 @@ Check out our 📘 docs [here](https://docs.codacy.com/getting-started/codacy-qu
 
 🎬 Quick tour (video)
 
+-----------------------------------------------------------------------------------------------------------
+
 ## Rated #1 Easiest to use Static Code Analysis Tool by G2
 Codacy ranks #1 on G2's list of [Top 11 easiest to use SCA tools](https://www.g2.com/categories/static-code-analysis?tab=easiest_to_useg).
 ![g2](images/g2.png)
