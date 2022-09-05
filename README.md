@@ -10,7 +10,17 @@
 ## About Codacy
 Codacy automatically analyzes your source code and identifies issues as you go, helping you develop software more efficiently with fewer issues down the line. Through static code review analysis, Codacy notifies you of security issues, code coverage, code duplication, and code complexity in every commit and pull request. 
 
-Ship high-quality code on more than 40 programming languages. Create PR gates based on your personal quality rules. Apply code patterns to standardize your code quality across all teams and projects. Identify OWASP Top 10 vulnerabilities, and more. Fully integrated into your workflow, easily set up Codacy with GitHub, GitLab or Bitbucket.
+Ship high-quality code on more than 40 programming languages:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+& more.
+
+Create PR gates based on your personal quality rules. Apply code patterns to standardize your code quality across all teams and projects. Identify OWASP Top 10 vulnerabilities, and more. Fully integrated into your workflow, easily set up Codacy with GitHub, GitLab or Bitbucket.
 
 Always free for open source!
 
