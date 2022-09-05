@@ -24,7 +24,7 @@ Ship high-quality code on more than 40 programming languages:
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 & more.
 
-Create PR gates based on your personal quality rules. Apply code patterns to standardize your code quality across all teams and projects. Identify OWASP Top 10 vulnerabilities, and more. Fully integrated into your workflow, easily set up Codacy with GitHub, GitLab or Bitbucket.
+Create PR gates based on your personal quality rules. Apply code patterns to standardize your code quality across all teams and projects. Identify OWASP Top 10 vulnerabilities. Fully integrated into your workflow, easily set up Codacy with GitHub, GitLab or Bitbucket.
 
 Always free for open source!
 
