@@ -41,4 +41,4 @@ Codacy ranks #1 on G2's list of [Top 11 easiest to use SCA tools](https://www.g2
 ## Pulse by Codacy
 Pulse is a product that enables teams to measure engineering performance. Get full visibility of your DORA metrics (deployment frequency, lead time for changes, mean time to recover and change failure rate) to guide your team to full engineering performance. 
 
-#[Try Pulse](https://www.pulse.codacy.com/).
+**[Try Pulse](https://www.pulse.codacy.com/).**
