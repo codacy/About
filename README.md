@@ -21,6 +21,7 @@ Ship high-quality code on more than 40 programming languages:
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 & more.
 
 Create PR gates based on your personal quality rules. Apply code patterns to standardize your code quality across all teams and projects. Identify OWASP Top 10 vulnerabilities, and more. Fully integrated into your workflow, easily set up Codacy with GitHub, GitLab or Bitbucket.
